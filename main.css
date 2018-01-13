@@ -6,6 +6,9 @@ h2 {
     text-align: center;
     color: black;
 }
+#qop{
+    background-color: darkcyan
+}
 table {
     border-collapse: collapse;
     text-align: center;
@@ -18,7 +21,15 @@ td {
     border-color:brown;
     padding: 30px;
 }
-.cell1 {
-    background-color: blueviolet;
+.kolorek {
+    background-color: rgb(51, 102, 153);
 }
-qwezxc
+.drugi {
+    background-color: rgb(230, 153, 255);
+}
+a {
+    color: red;
+}
+a:hover {
+    color: black;
+}
